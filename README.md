@@ -20,14 +20,14 @@ Start Guide:
 
 Installation:
 
-    CityTaxi will be hosted on github: https://github.com/juanitohf/CityTaxi.git. 
+    CityTaxi will be hosted on github: https://github.com/iyadshaheen/taxi.git. 
     Open it on eclipse and download Google play services and attach it into CityTaxi app.
     Go to https://code.google.com/apis/console and enable the API Google Maps Android API v2. 
 
 Dependencies:
 
     1. Git repository: The distribution revision control and source code management system.
-                        If cloned from Github, that will be 'git cloneÿhttps://github.com/juanitohf/CityTaxi.git <option>', 
+                        If cloned from Github, that will be 'git cloneÃ¿ https://github.com/iyadshaheen/taxi.git <option>', 
                         <option> could be the repository name that you want to name it on your local machine; or without <option>, 
                         will be the name of CityTaxi. In addition, user can go to the above url, and download zip file.
     2. Apache Web Server: 
@@ -37,7 +37,7 @@ Dependencies:
 Installation server steps:
 
     1. Get the copy from Git virtual repository: 
-        Command:  $ git clone git://github.com/juanitohf/CityTaxi.git.
+        Command:  $ git clone git:https://github.com/iyadshaheen/taxi.git.
         Unzip the file called CityTaxiServer.zip and upload the files into the server. 
 
     2. Enable the correct permission: Apache server needs to read all files and folder. 
